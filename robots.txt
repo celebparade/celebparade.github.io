@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://celebparade.github.io/sitemap.xml
